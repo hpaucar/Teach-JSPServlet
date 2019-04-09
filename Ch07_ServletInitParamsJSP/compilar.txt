@@ -1,1 +1,0 @@
-http://localhost:8080/Ch7ServletInitParamsJSP/TestInit.jsp

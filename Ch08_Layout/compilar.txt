@@ -1,4 +1,0 @@
-cd Documents\MyProjects\Ch8_Layout
-
-http://localhost:8080/Ch8Layout/contact.jsp
-
