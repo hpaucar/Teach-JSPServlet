@@ -1,0 +1,8 @@
+<Context>
+  <Resource name="jdbc/project" 
+  			auth="Container" type="javax.sql.DataSource"	
+              maxActive="25" maxIdle="5" maxWait="10000"     
+               username="chaand" password="studyeasy"     
+               driverClassName="com.mysql.cj.jdbc.Driver"    
+               url="jdbc:mysql://127.0.0.1:3306/studyeasy_db?useSSL=false"/>
+</Context>
